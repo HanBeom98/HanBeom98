@@ -13,9 +13,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## GitHub Stats
-![HanBeom98's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanBeom98&layout=compact&theme=radical)
 
 ## Featured Projects
 - [**WeatherWear**](https://github.com/HanBeom98/weatherwear): 날씨 기반 개인 맞춤형 옷차림 추천 서비스
@@ -34,6 +31,9 @@
 - **경상국립대학교** (2018.03 ~ 2024.02)
   - 국제통상학과 전공
 
+## GitHub Stats
+![HanBeom98's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanBeom98&layout=compact&theme=radical)
 
 ## Contact
 - 📧 **이메일**: [Carry9691@gmail.com]
