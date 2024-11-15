@@ -12,4 +12,5 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## GitHub Stats
-![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=jane-doe&show_icons=true&theme=radical)
+![HanBeom98's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical)
+
