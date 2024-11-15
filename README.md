@@ -38,4 +38,4 @@
 ## Contact
 - 📧 **이메일**: [Carry9691@gmail.com]
 - 💼 **tistroy**: [https://track1ng.tistory.com/]
-- 🌐 **Portfolio**[Notion](https://third-amber-e30.notion.site/Resume-of-HanBeom-CHO-10c720a78baf8076bbb4c5271ad66517?pvs=4).
+- 🌐 **Portfolio**: [Notion](https://third-amber-e30.notion.site/Resume-of-HanBeom-CHO-10c720a78baf8076bbb4c5271ad66517?pvs=4).
