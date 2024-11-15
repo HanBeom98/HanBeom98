@@ -15,7 +15,7 @@
 
 
 ## Featured Projects
-- [**WeatherWear**](https://github.com/HanBeom98/weatherwear): 날씨 기반 개인 맞춤형 옷차림 추천 서비스
+- [**WeatherWear**](https://github.com/WeatherWearTeam/WeatherWear): 날씨 기반 개인 맞춤형 옷차림 추천 서비스
   - **기술 스택**: `Java`, `Spring Boot`, `MySQL`, `AWS`
   - **주요 기능**: 날씨 API 연동, 사용자 맞춤형 추천 알고리즘 구현
 - [**Money Service API**](https://github.com/HanBeom98/money-service-api): 동영상 플랫폼 수익 정산 및 통계 관리 시스템
