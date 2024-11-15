@@ -3,7 +3,7 @@
 ## About Me
 - 🌱 **학습 중**: `Java`, `Spring Boot`, `Microservices`, `AWS`,
 - 💼 **목표**: 효율적이고 확장 가능한 시스템을 구축하는 백엔드 개발자
-- 📫 **연락처**: [hanbeom98@example.com](mailto:hanbeom98@example.com)
+- 📫 **연락처**: [Carry9691@gmail.com]
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
