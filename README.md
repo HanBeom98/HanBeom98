@@ -91,4 +91,4 @@
 ## **📞 Contact**
 📧 **이메일**: Carry9691@gmail.com  
 💻 **블로그**: [https://track1ng.tistory.com/](https://track1ng.tistory.com/)  
-🌐 **포트폴리오**: [Notion Resume](https://third-amber-e30.notion.site/Resume-of-HanBeom-CHO-10c720a78baf8076bbb4c5271ad66517?pvs=4)  
+
