@@ -56,24 +56,8 @@
 
 ### **3️⃣ [WeatherWear ☀️❄️](https://github.com/WeatherWearTeam/WeatherWear)**
 > **날씨 기반 개인 맞춤형 OOTD(Outfit of Today) 추천 서비스**  
-- **기술 스택**: `Java`, `Spring Boot`, `MySQL`, `AWS`, `Redis`  
-- **본인 역할**: **JMeter 부하 테스트 및 AWS Control Tower 모니터링 구축**  
-- **주요 기능**:
-  - **기상청 Open API 연동** → 실시간 날씨 데이터 활용
-  - **JMeter 부하 테스트** → 동시 접속 1000명까지 성능 유지
-  - **AWS Control Tower 적용** → 장애 감지 및 대응 시스템 구축
-
----
-
-## **🎓 Education & Experience**
-- **스파르타 자바 심화 2기 캠프** (2024.11.4 ~ 2025.01.27)  
-  - 웹 백엔드(Spring) 개발자 심화 과정 수료  
-- **이노베이션 캠프** (2024.06.27 ~ 2024.10.04)  
-  - **Spring Boot 기반 웹 백엔드 개발 과정 수료**  
-  - 팀 프로젝트 및 개인 실전 프로젝트 진행  
-- **경상국립대학교 | 국제통상학과** (2018.03 ~ 2024.02)  
-  - **데이터 분석 프로젝트 경험**  
-  - **백엔드 개발과 연계된 SQL 활용 프로젝트 진행**  
+- **기술 스택**: `Java`, `Spring Boot`, `MySQL`, `AWS`, `Redis`험**  
+  
 
 ---
 
