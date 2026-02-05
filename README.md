@@ -7,7 +7,7 @@
 ---
 
 ## **💡 About Me**
-- 🌱 **학습 중**: `Java`, `Spring Boot`, `Microservices`, `AWS`, `CI/CD`
+- 🌱 **학습 중**: `Java`, `Spring Boot`, `Microservices`, `AWS`, `CI/CD`, `Python`
 - 💼 **목표**: 효율적이고 확장 가능한 시스템을 구축하는 백엔드 개발자
 - 📫 **연락처**: Carry9691@gmail.com
 
