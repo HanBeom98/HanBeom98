@@ -24,7 +24,7 @@
 
 ## **🔥 Featured Projects**
 
-### **1️⃣ AI News Auto-Portal (Solo Project)🤖**
+### **1️⃣ [AI News Auto-Portal🤖 (Solo Project)](https://github.com/HanBeom98/tracking-sa)**
 > **AI 기반 실시간 뉴스 수집 및 자동 요약 게재 서비스**
 - **기술 스택**: `Python`, `LLM API (OpenAI/Gemini)`, `FastAPI`, `MySQL`, `GitHub Actions`
 - **본인 역할**: **뉴스 수집 파이프라인 설계 및 AI 요약 엔진 구축**
