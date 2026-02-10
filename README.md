@@ -34,19 +34,26 @@
 
 ## **🔥 Featured Projects**
 ### **1️⃣ [Airportato ✈️](https://github.com/Cool-Potatoes/flight-booking)**
-> **사용자가 원하는 좌석을 직접 선택할 수 있는 항공권 예약 시스템** - **본인 역할**: Notification 시스템 개발 및 CI/CD 구축, AWS 배포
+> **사용자가 원하는 좌석을 직접 선택할 수 있는 항공권 예약 시스템**
+- **본인 역할**: Notification 시스템 개발 및 CI/CD 구축, AWS 배포
 - **주요 성과**: Kafka 실시간 알림 시스템 구축, 배포 자동화로 배포 시간 70% 단축
 
 ### **2️⃣ [Money Service API 💰](https://github.com/HanBeom98/money-service-api)**
-> **동영상 플랫폼의 수익 정산 및 통계 관리 시스템** - **본인 역할**: Spring Batch 최적화 및 데이터 처리 성능 개선
+> **동영상 플랫폼의 수익 정산 및 통계 관리 시스템**
+- **본인 역할**: Spring Batch 최적화 및 데이터 처리 성능 개선
 - **주요 성과**: Redis 캐싱으로 트래픽 최적화 및 MySQL 쿼리 튜닝으로 서버 부하 30% 감소
+
+### **3️⃣ [WeatherWear ☀️❄️](https://github.com/WeatherWearTeam/WeatherWear)**
+> **날씨 기반 개인 맞춤형 OOTD 추천 서비스**
+- **본인 역할**: 날씨 API 연동 및 JMeter 부하 테스트, 모니터링 구축
+- **주요 성과**: 실시간 날씨 데이터 활용, JMeter 테스트를 통한 동시 접속 1000명 성능 검증
 
 ---
 
 ## **📈 GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanBeom98&layout=compact&theme=radical&hide_border=true" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanBeom98&layout=compact&theme=radical" width="42%">
 </div>
 
 ---
