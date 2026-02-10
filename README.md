@@ -44,8 +44,16 @@
 
 ---
 
+## **🎓 Education & Experience**
+- **스파르타 자바 심화 2기 캠프** (2024.11.4 ~ 2025.01.27) - 웹 백엔드(Spring) 개발자 심화 과정 수료
+- **이노베이션 캠프** (2024.06.27 ~ 2024.10.04) - Spring Boot 기반 웹 백엔드 개발 과정 수료
+- **경상국립대학교 | 국제통상학과** (2018.03 ~ 2024.02) - 중국(우한) 교환학생 1년 경험
+
+---
+
 ## **📈 GitHub Stats**
-![HanBeom98's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical)  
+![HanBeom98's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanBeom98&layout=compact&theme=radical)
 
 ---
