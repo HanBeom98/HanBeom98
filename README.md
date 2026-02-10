@@ -24,7 +24,7 @@
 
 ## **🔥 Featured Projects**
 
-### **1️⃣ AI News Auto-Portal 🤖**
+### **1️⃣ AI News Auto-Portal (Solo Project)🤖**
 > **AI 기반 실시간 뉴스 수집 및 자동 요약 게재 서비스**
 - **기술 스택**: `Python`, `LLM API (OpenAI/Gemini)`, `FastAPI`, `MySQL`, `GitHub Actions`
 - **본인 역할**: **뉴스 수집 파이프라인 설계 및 AI 요약 엔진 구축**
@@ -39,7 +39,7 @@
 - **본인 역할**: Notification 시스템 개발 및 CI/CD 구축, AWS 배포
 - **주요 기능**: Kafka 기반 실시간 알림 시스템 구축, 배포 자동화로 배포 시간 70% 단축
 
-### **3️⃣ [Money Service API 💰](https://github.com/HanBeom98/money-service-api)**
+### **3️⃣ [Money Service API (Solo Project)💰](https://github.com/HanBeom98/money-service-api)**
 > **동영상 플랫폼의 수익 정산 및 통계 관리 시스템**
 - **기술 스택**: `Java`, `Spring Boot`, `Spring Cloud`, `Spring Batch`, `MySQL`, `Redis`
 - **본인 역할**: Spring Batch 최적화 및 데이터 처리 성능 개선
