@@ -83,7 +83,7 @@
 
 ## **📈 GitHub Stats**
 <p align="center">  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인의계정ID&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanBeom98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical" width="48%">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanBeom98&layout=compact&theme=radical" width="48%">  
 </p>  
