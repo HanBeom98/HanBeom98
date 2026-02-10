@@ -52,12 +52,13 @@
 ---
 
 ## **📈 GitHub Stats**
-![HanBeom98's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanBeom98&layout=compact&theme=radical)
+![HanBeom98's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=HanBeom98&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanBeom98&layout=compact&theme=radical)
 
 ---
 
 ## **📞 Contact**
-- **Email**: Carry9691@gmail.com
+- **Email**: [Carry9691@gmail.com](mailto:Carry9691@gmail.com)
 - **Blog**: [https://track1ng.tistory.com/](https://track1ng.tistory.com/)
