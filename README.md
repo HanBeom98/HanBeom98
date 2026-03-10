@@ -24,14 +24,28 @@
 
 ## **🔥 Featured Projects**
 
-### **1️⃣ [AI News Auto-Portal🤖 (Solo Project)](https://github.com/HanBeom98/tracking-sa)**
-> **AI 기반 실시간 뉴스 수집 및 자동 요약 게재 서비스**
-- **기술 스택**: `Python`, `LLM API (OpenAI/Gemini)`, `FastAPI`, `MySQL`, `GitHub Actions`
-- **본인 역할**: **뉴스 수집 파이프라인 설계 및 AI 요약 엔진 구축**
-- **주요 기능**: 
-  - 특정 키워드 기반 실시간 뉴스 크롤링 및 데이터 전처리
-  - LLM을 활용한 다국어 뉴스 요약 및 카테고리 자동 분류 시스템
-  - GitHub Actions 기반의 주기적 자동 포스팅 스케줄링 구현
+### **1️⃣ [Tracking-SA (Solo Project)](https://github.com/HanBeom98/tracking-sa-portfolio)**
+> **서든어택 전적 검색 및 크루 관리 기능을 제공하는 웹 서비스**
+
+- **Service**: https://trackingsa.com
+
+- **기술 스택**: `JavaScript`, `Serverless (Vercel)`, `Firebase Firestore`, `Cloudflare`, `Nexon OpenAPI`
+
+- **본인 역할**
+  - Nexon OpenAPI 기반 플레이어 전적 검색 기능 구현
+  - Serverless API를 통한 API 요청 처리 로직 구현
+  - Firestore 기반 크루 및 매치 데이터 관리
+  - Cloudflare CDN 기반 서비스 배포 및 운영
+
+- **주요 기능**
+  - 서든어택 플레이어 전적 검색
+  - Nexon OpenAPI 연동을 통한 매치 데이터 조회
+  - Discord 커뮤니티 및 Google 검색 기반 사용자 유입
+  - Google Analytics 기반 사용자 트래픽 분석
+
+- **운영 경험**
+  - 실제 웹 서비스 개발 및 운영
+  - 일 평균 사용자 약 **20~30명**
 
 ### **2️⃣ [Airportato ✈️](https://github.com/Cool-Potatoes/flight-booking)**
 > **사용자가 원하는 좌석을 직접 선택할 수 있는 항공권 예약 시스템**
@@ -39,13 +53,7 @@
 - **본인 역할**: Notification 시스템 개발 및 CI/CD 구축, AWS 배포
 - **주요 기능**: Kafka 기반 실시간 알림 시스템 구축, 배포 자동화로 배포 시간 70% 단축
 
-### **3️⃣ [Money Service API (Solo Project)💰](https://github.com/HanBeom98/money-service-api)**
-> **동영상 플랫폼의 수익 정산 및 통계 관리 시스템**
-- **기술 스택**: `Java`, `Spring Boot`, `Spring Cloud`, `Spring Batch`, `MySQL`, `Redis`
-- **본인 역할**: Spring Batch 최적화 및 데이터 처리 성능 개선
-- **주요 기능**: Spring Batch 활용 수익 자동 정산, Redis 캐싱을 통한 트래픽 최적화
-
-### **4️⃣ [WeatherWear ☀️❄️](https://github.com/WeatherWearTeam/WeatherWear)**
+### **3️⃣ [WeatherWear ☀️❄️](https://github.com/WeatherWearTeam/WeatherWear)**
 > **날씨 기반 개인 맞춤형 OOTD(Outfit of Today) 추천 서비스**
 - **기술 스택**: `Java`, `Spring Boot`, `MySQL`, `AWS`, `Redis`
 - **본인 역할**: 날씨 API 연동, JMeter 부하 테스트 및 AWS 모니터링 구축
