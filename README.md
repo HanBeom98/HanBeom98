@@ -25,27 +25,34 @@
 ## **🔥 Featured Projects**
 
 ### **1️⃣ [Tracking-SA (Solo Project)](https://github.com/HanBeom98/tracking-sa-portfolio)**
-> **서든어택 전적 검색 및 크루 관리 기능을 제공하는 웹 서비스**
+> **게임 전적 검색 및 AI 기반 콘텐츠 기능을 제공하는 웹 서비스**
 
-- **Service**: https://trackingsa.com
+**Service**  
+https://trackingsa.com
 
-- **기술 스택**: `JavaScript`, `Serverless (Vercel)`, `Firebase Firestore`, `Cloudflare`, `Nexon OpenAPI`
+**기술 스택**  
+`JavaScript`, `Serverless (Vercel)`, `Firebase Firestore`, `Cloudflare`, `Nexon OpenAPI`, `LLM API`
 
-- **본인 역할**
-  - Nexon OpenAPI 기반 플레이어 전적 검색 기능 구현
-  - Serverless API를 통한 API 요청 처리 로직 구현
-  - Firestore 기반 크루 및 매치 데이터 관리
-  - Cloudflare CDN 기반 서비스 배포 및 운영
+**본인 역할**
 
-- **주요 기능**
-  - 서든어택 플레이어 전적 검색
-  - Nexon OpenAPI 연동을 통한 매치 데이터 조회
-  - Discord 커뮤니티 및 Google 검색 기반 사용자 유입
-  - Google Analytics 기반 사용자 트래픽 분석
+- Nexon OpenAPI 기반 서든어택 전적 검색 기능 구현
+- Serverless API를 통한 API 요청 처리 로직 구현
+- Firestore 기반 데이터 관리
+- Cloudflare CDN 기반 서비스 배포 및 운영
+- AI 기반 콘텐츠 기능 구현
 
-- **운영 경험**
-  - 실제 웹 서비스 개발 및 운영
-  - 일 평균 사용자 약 **20~30명**
+**주요 기능**
+
+- 서든어택 플레이어 전적 검색
+- Nexon OpenAPI 기반 매치 데이터 조회
+- AI 기반 콘텐츠 생성 기능
+- Discord 커뮤니티 및 Google 검색 기반 사용자 유입
+
+**운영 경험**
+
+- 실제 웹 서비스 개발 및 운영
+- Google Analytics 기반 사용자 트래픽 분석
+- 일 평균 사용자 약 **20~30명**
 
 ### **2️⃣ [Airportato ✈️](https://github.com/Cool-Potatoes/flight-booking)**
 > **사용자가 원하는 좌석을 직접 선택할 수 있는 항공권 예약 시스템**
